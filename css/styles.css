@@ -5,7 +5,6 @@
 }
 body {
   background-color: #e2e2e2;
-  /* padding: 40px 20px; */
   font-family: Montserrat;
 }
 .wrapper {
@@ -18,18 +17,17 @@ body {
 .sidebar {
   background: #2d397e;
   width: 370px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
 }
 .my-photo {
   width: 370px;
   box-shadow: #e2e2e2 0px 5px 5px 0px;
 }
 .about-me-container {
-  padding: 110px 54px;
+  padding: 54px;
 }
 .skills-container {
-  margin: 55px 30px;
+  margin: 30px;
   color: #ffffff;
 }
 .contact-link {
