@@ -5,7 +5,7 @@
 }
 body {
   background-color: #e2e2e2;
-  padding: 40px 20px;
+  /* padding: 40px 20px; */
   font-family: Montserrat;
 }
 .wrapper {
@@ -124,7 +124,4 @@ body {
   line-height: 24px;
   margin-left: 17px;
   margin-bottom: 12px;
-}
-.description-item {
-  outline-offset: 15px;
 }
