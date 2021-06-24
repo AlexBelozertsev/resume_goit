@@ -30,6 +30,12 @@ body {
   margin: 30px;
   color: #ffffff;
 }
+.contact-info {
+  display: flex;
+  align-items: center;
+  line-height: 30px;
+  margin-bottom: 5px;
+}
 .contact-link {
   text-decoration: none;
   color: #ffffff;
@@ -42,6 +48,10 @@ body {
   font-weight: 700;
   line-height: 24px;
   margin-right: 10px;
+}
+.icon {
+  width: 20px;
+  margin-right: 8px;
 }
 .my-element {
   font-size: 22px;
