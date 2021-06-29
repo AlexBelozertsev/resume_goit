@@ -67,7 +67,7 @@ body {
   margin-left: 15px;
 }
 .skills-container-text {
-  color: #c7cace;
+  color: #ffffff;
 }
 .profession {
   font-size: 14px;
@@ -95,7 +95,7 @@ body {
   margin-bottom: 15px;
 }
 .tech-name {
-  color: #595959;
+  color: #383737;
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -116,17 +116,14 @@ body {
   color: #ff781e;
 }
 .period {
-  color: #a8a8a8;
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
 }
 .devider {
-  color: #000000;
   height: 14px;
 }
 .duties-item {
-  color: #595959;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
